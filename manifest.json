@@ -1,6 +1,6 @@
 {
-  "name": "Improved NAVER real estate filter - 네이버 부동산 추가 필터",
-  "description": "Extended filter for NAVER real estate web",
+  "name": "Improved NAVER land filter - 네이버 부동산 추가 필터",
+  "description": "Extended filter for NAVER land web",
   "version": "1.0.0",
   "manifest_version": 3,
   "background": {
